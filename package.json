@@ -1,0 +1,16 @@
+{
+  "name": "linkit",
+  "version": "1.0.0",
+  "description": "linkit backend",
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "license": "ISC",
+  "author": "sanjay soni",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
