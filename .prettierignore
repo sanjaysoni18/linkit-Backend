@@ -1,0 +1,11 @@
+/.vscoce
+./dist
+
+**/.git
+**/.svn
+**/.hg
+**/node_modules
+
+*.env
+.env
+.env.*
